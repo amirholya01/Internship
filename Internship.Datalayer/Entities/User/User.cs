@@ -4,6 +4,11 @@ namespace Internship.Datalayer.Entities.User;
 
 public class User
 {
+    public User()
+    {
+        
+    }
+    
     [Key]
     public long UserId { get; set; }
     
@@ -28,7 +33,16 @@ public class User
     
     [Display(Name = "is active?")]
     public bool IsActive { get; set; }
+    [Display(Name = "image of user")]
+    [MaxLength(200, ErrorMessage = "The {0} can not more than {1} characters.")]
+    public string UserAvatar { get; set; }
     
     [Display(Name = "date of registration")]
     public DateTime RegisterDate { get; set; }
+
+
+    #region Relations
+
+    public virtual ICollection<UserRole> UserRole { get; set; }
+    #endregion
 }

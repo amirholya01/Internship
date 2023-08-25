@@ -1,0 +1,14 @@
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/Internship.Datalayer/bin/Debug/net6.0/Internship.Datalayer.deps.json
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/Internship.Datalayer/bin/Debug/net6.0/Internship.Datalayer.runtimeconfig.json
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/Internship.Datalayer/bin/Debug/net6.0/Internship.Datalayer.dll
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/Internship.Datalayer/bin/Debug/net6.0/Internship.Datalayer.pdb
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/Internship.Datalayer/obj/Debug/net6.0/Internship.Datalayer.csproj.AssemblyReference.cache
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/Internship.Datalayer/obj/Debug/net6.0/Internship.Datalayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/Internship.Datalayer/obj/Debug/net6.0/Internship.Datalayer.AssemblyInfoInputs.cache
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/Internship.Datalayer/obj/Debug/net6.0/Internship.Datalayer.AssemblyInfo.cs
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/Internship.Datalayer/obj/Debug/net6.0/Internship.Datalayer.csproj.CoreCompileInputs.cache
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/Internship.Datalayer/obj/Debug/net6.0/Internship.Datalayer.dll
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/Internship.Datalayer/obj/Debug/net6.0/refint/Internship.Datalayer.dll
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/Internship.Datalayer/obj/Debug/net6.0/Internship.Datalayer.pdb
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/Internship.Datalayer/obj/Debug/net6.0/Internship.Datalayer.genruntimeconfig.cache
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/Internship.Datalayer/obj/Debug/net6.0/ref/Internship.Datalayer.dll

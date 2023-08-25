@@ -1,0 +1,17 @@
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/InternshipApp.Core/bin/Debug/net6.0/InternshipApp.Core.deps.json
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/InternshipApp.Core/bin/Debug/net6.0/InternshipApp.Core.dll
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/InternshipApp.Core/bin/Debug/net6.0/InternshipApp.Core.pdb
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/InternshipApp.Core/obj/Debug/net6.0/InternshipApp.Core.csproj.AssemblyReference.cache
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/InternshipApp.Core/obj/Debug/net6.0/InternshipApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/InternshipApp.Core/obj/Debug/net6.0/InternshipApp.Core.AssemblyInfoInputs.cache
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/InternshipApp.Core/obj/Debug/net6.0/InternshipApp.Core.AssemblyInfo.cs
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/InternshipApp.Core/obj/Debug/net6.0/InternshipApp.Core.csproj.CoreCompileInputs.cache
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/InternshipApp.Core/obj/Debug/net6.0/InternshipApp.Core.dll
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/InternshipApp.Core/obj/Debug/net6.0/refint/InternshipApp.Core.dll
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/InternshipApp.Core/obj/Debug/net6.0/InternshipApp.Core.pdb
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/InternshipApp.Core/obj/Debug/net6.0/ref/InternshipApp.Core.dll
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/InternshipApp.Core/bin/Debug/net6.0/InternshipApp.Core.runtimeconfig.json
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/InternshipApp.Core/bin/Debug/net6.0/Internship.Datalayer.dll
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/InternshipApp.Core/bin/Debug/net6.0/Internship.Datalayer.pdb
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/InternshipApp.Core/obj/Debug/net6.0/InternshipApp.Core.csproj.CopyComplete
+/Users/amirhosseinolya/Desktop/rider/InternshipApp/InternshipApp.Core/obj/Debug/net6.0/InternshipApp.Core.genruntimeconfig.cache
