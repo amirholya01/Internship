@@ -27,12 +27,35 @@
 
 
     <ItemGroup>
-      <Folder Include="wwwroot\assets\" />
-    </ItemGroup>
-
-
-    <ItemGroup>
       <_ContentIncludedByDefault Remove="wwwroot\assets\css\style.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\aparat.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\arrow.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\arrowbottom.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\bell.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\cross.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\down-arrow-svgrepo-com.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\favicon.ico" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\hamburger.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\home.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\instagram.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\linkedin.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\logo-white.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\payout.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\pg.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\social-image.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\splite.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\support.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\telegram.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\twitter.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\verifiedIcon.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\virtual-logo.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\zarincard.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\images\zarinplus.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\styles\fonts.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\styles\style.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\js\script.js" />
     </ItemGroup>
+
+
 
 </Project>

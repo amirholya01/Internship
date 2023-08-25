@@ -1,42 +1,90 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <link rel="stylesheet" href="/assets/styles/style.css" />
-  </head>
-  <body>
-    <header>
-      <div>
-        <img class="logo" src="/assets/images/virtual-logo.svg" alt="Virtual lab logo" />
-      </div>
-      <nav>
-        <ul class="header-ul">
-          <li class="more-menu" id="show-product-menu">
-            <a href="#">Back-Ends</a>
-            <img src="/assets/images/down-arrow-svgrepo-com.svg"  alt="arrow"/>
-          </li>
-          <li>
-            <a href="#">UX</a>
-          </li>
-          <li>
-            <a href="#">Windows</a>
-          </li>
-          <li>
-            <a href="#">ML</a>
-          </li>
-          <li class="more-menu" id="show-more-menu">
-            <a href="#">Front-Ends</a>
-            <img src="/assets/images/down-arrow-svgrepo-com.svg" alt="arrow" />
-          </li>
-          <li>
-            <a href="#">About Us</a>
-          </li>
-        </ul>
-      </nav>
-    </header>
-    <div style="width: 100vw; height: 2000px; background-color: red"></div>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/style/style.css">
+    <title>Responsive Navigation Bar</title>
+</head>
+<body>
+<nav class="navbar">
+    <div class="logo">Logo</div>
+    <ul class="nav-links">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+    <div class="burger">
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+    </div>
+</nav>
+<div class="container">
+    <img class="background-image" src="assets/images/back.jpg" alt="Background Image">
+    <div class="content">
+        <a href="#">Login</a>
+        <a href="#">Register</a>
+    </div>
+</div>
+ <div class="card-container">
+        <div class="card">
+            <img src="assets/images/java.webp" alt="Image 1">
+            <h2>Card Title 1</h2>
+            <p>This is some sample text describing the card.</p>
+            <a href="#">Read More</a>
+        </div>
+        <div class="card">
+            <img src="assets/images/micro.webp" alt="Image 2">
+            <h2>Card Title 2</h2>
+            <p>This is some sample text describing the card.</p>
+            <a href="#">Read More</a>
+        </div>
+        <div class="card">
+            <img src="assets/images/Js.jpeg" alt="Image 3">
+            <h2>Card Title 3</h2>
+            <p>This is some sample text describing the card.</p>
+            <a href="#">Read More</a>
+        </div> 
+     <div class="card">
+                          <img src="assets/images/java.webp" alt="Image 1">
+                          <h2>Card Title 1</h2>
+                          <p>This is some sample text describing the card.</p>
+                          <a href="#">Read More</a>
+                      </div>
+                      <div class="card">
+                          <img src="assets/images/micro.webp" alt="Image 2">
+                          <h2>Card Title 2</h2>
+                          <p>This is some sample text describing the card.</p>
+                          <a href="#">Read More</a>
+                      </div>
+     <div class="card">
+         <img src="assets/images/Js.jpeg" alt="Image 3">
+         <h2>Card Title 3</h2>
+         <p>This is some sample text describing the card.</p>
+         <a href="#">Read More</a>
+     </div>
+      <div class="card">
+                               <img src="assets/images/micro.webp" alt="Image 2">
+                               <h2>Card Title 2</h2>
+                               <p>This is some sample text describing the card.</p>
+                               <a href="#">Read More</a>
+                           </div>
+          <div class="card">
+              <img src="assets/images/Js.jpeg" alt="Image 3">
+              <h2>Card Title 3</h2>
+              <p>This is some sample text describing the card.</p>
+              <a href="#">Read More</a>
+          </div>
+    </div>
+<div>
     @RenderBody()
-    <script src="/assets/js/script.js"></script>
-  </body>
+</div>
+<footer class="footer">
+    <p>&copy; 2023 Your Company. All rights reserved.</p>
+</footer>
+
+<script src="assets/js/js.js"></script>
+</body>
 </html>
-
-
